@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GDU1rauic4thjp7jDoiGFYKNSqctuJQHKEvkl1+mQsDnbRz5MGAwF4uD7aNMTukvpIu0lcQ+50mti/mQFM+bXw==",
+  "success": true,
+  "projectFilePath": "D:\\1. Kuliah\\4. Project\\Visual Studio Community\\File\\SEMESTER2\\Testing Shapes\\Testing Shapes\\Testing Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yogad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\yogad\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\yogad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\yogad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
